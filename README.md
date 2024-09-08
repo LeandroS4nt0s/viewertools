@@ -1,71 +1,34 @@
 # Viewertools
 
-Welcome to Viewertools! Our website provides a range of tools to help you visualize and interact with your data. Below is a guide to help you get started and make the most out of our tools.
+Welcome to **Viewertools**! Our platform provides an easy-to-use interface for handling JSON, TypeScript, and HTML. No need to sign up—just access the site and start using the tools right away.
 
-## Table of Contents
+## Features
 
-1. [Overview](#overview)
-2. [Getting Started](#getting-started)
-3. [Tools and Features](#tools-and-features)
-4. [Examples](#examples)
-5. [Contributing](#contributing)
-6. [License](#license)
+### 1. JSON Preview
 
-## Overview
+- **Paste JSON Object**: In the `JSON Preview` tab, you can paste a JSON object and click the button to view it.
+- **Organized Display**: The JSON object is displayed in a structured and intuitive format for easy viewing.
 
-Viewertools offers a collection of interactive tools designed to assist with data visualization, management, and analysis. Our goal is to make data handling easier and more intuitive.
+### 2. TypeScript Interface Generator
 
-## Getting Started
+- **Generate TypeScript Interfaces**: After viewing your JSON object, switch to the `TS Interface Generator` tab.
+- **Generate Interfaces**: Click the button to generate TypeScript interfaces for the JSON object you previously entered. This helps in defining types and structures for your data.
 
-To start using Viewertools:
+### 3. HTML Preview
 
-1. **Visit the Website**: Go to [Viewertools](https://viewertools.com.br/).
-2. **Sign Up**: Create an account to access all features.
-3. **Explore Tools**: Navigate through the various tools available on the site.
+- **Write or Paste HTML**: In the `HTML Preview` tab, you can write or paste HTML code.
+- **View Preview**: See a live preview of the rendered HTML output.
 
-## Tools and Features
+## How to Use
 
-### Data Visualization
+1. **Access the Site**: Go to [Viewertools](https://viewertools.com.br/).
+2. **Navigate to the Desired Tab**:
+   - **JSON Preview**: Paste your JSON and click to view.
+   - **TS Interface Generator**: Generate TypeScript interfaces based on the JSON you previewed.
+   - **HTML Preview**: Write or paste HTML and see the rendered preview.
 
-- **Chart Generator**: Create different types of charts to represent your data visually.
-- **Map Visualization**: Plot your data on interactive maps.
+## No Account Needed
 
-### Data Management
+- **Immediate Access**: Use all features without creating an account or logging in.
 
-- **Data Import**: Upload and manage your data files.
-- **Data Export**: Export your processed data in various formats.
-
-### Analysis Tools
-
-- **Statistical Analysis**: Perform statistical calculations and analysis on your data.
-- **Trend Analysis**: Identify trends and patterns in your data.
-
-## Examples
-
-### Example 1: Chart Generator
-
-1. Navigate to the Chart Generator tool.
-2. Upload your data file or input data manually.
-3. Select the chart type and customize it as needed.
-4. Click "Generate" to view the chart.
-
-### Example 2: Map Visualization
-
-1. Go to the Map Visualization tool.
-2. Upload your location data file.
-3. Customize the map settings.
-4. Click "Visualize" to see your data on the map.
-
-## Contributing
-
-We welcome contributions from the community! If you would like to contribute, please follow these steps:
-
-1. **Fork the Repository**: Create a copy of the repository in your GitHub account.
-2. **Create a Feature Branch**: Develop your changes in a new branch.
-3. **Submit a Pull Request**: Open a pull request with your changes for review.
-
-For more detailed contribution guidelines, please refer to our [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## License
-
-Viewertools is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+Feel free to explore and utilize the tools for your development needs!
